@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "principium.one",
+      "sha256_cert_fingerprints": [
+        "22:4D:60:C1:6A:1A:88:17:D5:CC:A8:76:3C:CD:D7:FE:E8:2D:D2:C6:01:62:41:16:A9:D5:4A:F0:9F:23:5D:9A"
+      ]
+    }
+  }
+]
